@@ -1,2 +1,1 @@
-# Mobile-SDK-Windows-Phone
-Mobile SDK Windows Phone
+https://github.com/dotpay/Mobile-SDK-Windows-Phone/releases/latest
